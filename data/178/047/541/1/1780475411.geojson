@@ -2,10 +2,12 @@
   "id": 1780475411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-01",
+    "date:cessation_upper": "2022-09-01",
     "date:inception_lower": "2022-09-01",
     "date:inception_upper": "2022-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-01",
+    "edtf:cessation": "2022-09-01T19:40:09Z",
+    "edtf:inception": "2022-09-01T16:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -109.610733,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102525799,
     "sfomuseum:base_flight_id": "20220901-D-SIA-1374",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N836VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33342929"
+    },
     "wof:country": "US",
     "wof:created": 1662135715,
     "wof:geomhash": "a08c5b1a6c329f228ec453404f254a51",
@@ -90,9 +98,10 @@
       102527513,
       1159283813,
       1763588145,
-      1159286259
+      1159286259,
+      1159292085
     ],
-    "wof:lastmodified": 1662135715,
+    "wof:lastmodified": 1662136373,
     "wof:name": "AS117 (SFO-DAL)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

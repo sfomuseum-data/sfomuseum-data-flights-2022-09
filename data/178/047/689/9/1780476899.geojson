@@ -2,10 +2,12 @@
   "id": 1780476899,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-01",
+    "date:cessation_upper": "2022-09-01",
     "date:inception_lower": "2022-09-01",
     "date:inception_upper": "2022-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-01",
+    "edtf:cessation": "2022-09-01T16:13:00Z",
+    "edtf:inception": "2022-09-01T15:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-09-01",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33209916"
+    },
     "wof:country": "US",
     "wof:created": 1662136091,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,7 +91,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1662136091,
+    "wof:lastmodified": 1662136365,
     "wof:name": "WN2230 (SFO-LAX)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

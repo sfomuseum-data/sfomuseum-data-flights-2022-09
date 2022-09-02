@@ -2,10 +2,12 @@
   "id": 1780473287,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-01",
+    "date:cessation_upper": "2022-09-01",
     "date:inception_lower": "2022-09-01",
     "date:inception_upper": "2022-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-01",
+    "edtf:cessation": "2022-09-01T07:23:00Z",
+    "edtf:inception": "2022-09-01T05:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-09-01",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33178060"
+    },
     "wof:country": "US",
     "wof:created": 1662135174,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,7 +91,7 @@
       1159285591,
       1763588195
     ],
-    "wof:lastmodified": 1662135174,
+    "wof:lastmodified": 1662136357,
     "wof:name": "WN1707 (PHX-SFO)",
     "wof:parent_id": 1763588195,
     "wof:placetype": "custom",

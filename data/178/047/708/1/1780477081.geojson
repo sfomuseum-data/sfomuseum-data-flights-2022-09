@@ -2,10 +2,12 @@
   "id": 1780477081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-02",
+    "date:cessation_upper": "2022-09-02",
     "date:inception_lower": "2022-09-01",
     "date:inception_upper": "2022-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-01",
+    "edtf:cessation": "2022-09-02T02:49:00Z",
+    "edtf:inception": "2022-09-01T11:50:35-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20220901-D-CMP-1068",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N877UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33170172",
+      "swim:gufi": "KO83729500"
+    },
     "wof:country": "US",
     "wof:created": 1662136136,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1780477081,
     "wof:involves": [
+      1159284211,
+      1159289407,
       102533795,
       102527513,
       1159285413,
-      1763588339,
-      1159284211
+      1763588339
     ],
-    "wof:lastmodified": 1662136136,
+    "wof:lastmodified": 1662136374,
     "wof:name": "UA1200 (SFO-LAX)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1780477225,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-01",
-    "date:inception_upper": "2022-09-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-01",
+    "date:cessation_lower": "2022-09-02",
+    "date:cessation_upper": "2022-09-02",
+    "date:inception_lower": "2022-09-02",
+    "date:inception_upper": "2022-09-02",
+    "edtf:cessation": "2022-09-02T04:46:00Z",
+    "edtf:inception": "2022-09-02T02:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20220901-D-ACA-5615",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N68842",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33173161",
+      "swim:gufi": "KO00610600"
+    },
     "wof:country": "US",
     "wof:created": 1662136173,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1780477225,
     "wof:involves": [
+      1377564285,
       102531189,
       102527513,
       1159285413,
       1763588285,
       1159283597
     ],
-    "wof:lastmodified": 1662136173,
+    "wof:lastmodified": 1662136367,
     "wof:name": "UA2050 (SFO-DEN)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
