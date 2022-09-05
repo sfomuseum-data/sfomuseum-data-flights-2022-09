@@ -2,10 +2,12 @@
   "id": 1796213825,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-04",
+    "date:cessation_upper": "2022-09-04",
     "date:inception_lower": "2022-09-04",
     "date:inception_upper": "2022-09-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-04",
+    "edtf:cessation": "2022-09-04T02:46:23-07:00",
+    "edtf:inception": "2022-09-04T12:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-09-04",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8087165,
     "geom:longitude": -102.62808,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102532255,
@@ -34,6 +38,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N447UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33483732",
+      "swim:gufi": "KI29135100"
+    },
     "wof:country": "US",
     "wof:created": 1662394357,
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
@@ -81,12 +95,13 @@
     ],
     "wof:id": 1796213825,
     "wof:involves": [
+      1159292085,
       102527513,
       102532255,
       1159285413,
       1763588285
     ],
-    "wof:lastmodified": 1662394357,
+    "wof:lastmodified": 1662395428,
     "wof:name": "UA1038 (CMH-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

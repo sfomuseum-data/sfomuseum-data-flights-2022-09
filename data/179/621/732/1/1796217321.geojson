@@ -2,10 +2,12 @@
   "id": 1796217321,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-04",
-    "date:inception_upper": "2022-09-04",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-04",
+    "date:cessation_lower": "2022-09-05",
+    "date:cessation_upper": "2022-09-05",
+    "date:inception_lower": "2022-09-05",
+    "date:inception_upper": "2022-09-05",
+    "edtf:cessation": "2022-09-05T04:44:00Z",
+    "edtf:inception": "2022-09-05T00:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.2030015,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:base_flight_id": "20220904-D-AVA-2356",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N68805",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO74066100"
+    },
     "wof:country": "US",
     "wof:created": 1662395235,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1796217321,
     "wof:involves": [
+      1763588285,
+      1159285749,
+      1377564285,
       102532939,
       102527513,
-      1159285413,
-      1763588285,
-      1159285749
+      1159285413
     ],
-    "wof:lastmodified": 1662395235,
+    "wof:lastmodified": 1662395447,
     "wof:name": "UA1723 (SFO-KOA)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
