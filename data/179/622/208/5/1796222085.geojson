@@ -2,10 +2,12 @@
   "id": 1796222085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-06",
+    "date:cessation_upper": "2022-09-06",
     "date:inception_lower": "2022-09-06",
     "date:inception_upper": "2022-09-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-06",
+    "edtf:cessation": "2022-09-06T14:44:48-07:00",
+    "edtf:inception": "2022-09-06T23:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220906-A-LAN-6285",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N501DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33688687",
+      "swim:gufi": "KB77161300"
+    },
     "wof:country": "US",
     "wof:created": 1662566898,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796222085,
     "wof:involves": [
+      1159285641,
+      1377564297,
       102527513,
       102530741,
       1159284261,
-      1763588249,
-      1159285641
+      1763588249
     ],
-    "wof:lastmodified": 1662566898,
+    "wof:lastmodified": 1662568271,
     "wof:name": "DL1200 (BOS-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

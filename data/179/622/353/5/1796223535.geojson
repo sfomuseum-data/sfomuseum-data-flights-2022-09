@@ -2,10 +2,12 @@
   "id": 1796223535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-06",
+    "date:cessation_upper": "2022-09-06",
     "date:inception_lower": "2022-09-06",
     "date:inception_upper": "2022-09-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-06",
+    "edtf:cessation": "2022-09-06T03:22:53-07:00",
+    "edtf:inception": "2022-09-06T12:33:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "MSR",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220906-A-MSR-9322",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N47524",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "33636499",
+      "swim:gufi": "KW29108300"
+    },
     "wof:country": "US",
     "wof:created": 1662567273,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796223535,
     "wof:involves": [
+      1159284325,
+      1528104577,
       102527513,
       102528817,
       1159285413,
-      1763588353,
-      1159284325
+      1763588353
     ],
-    "wof:lastmodified": 1662567273,
+    "wof:lastmodified": 1662568286,
     "wof:name": "UA424 (IAD-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",
