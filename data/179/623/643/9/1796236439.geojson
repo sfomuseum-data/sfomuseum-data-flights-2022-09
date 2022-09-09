@@ -2,10 +2,12 @@
   "id": 1796236439,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-08",
-    "date:inception_upper": "2022-09-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-08",
+    "date:cessation_lower": "2022-09-09",
+    "date:cessation_upper": "2022-09-09",
+    "date:inception_lower": "2022-09-09",
+    "date:inception_upper": "2022-09-09",
+    "edtf:cessation": "2022-09-09T11:14:41Z",
+    "edtf:inception": "2022-09-09T06:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,6 +26,7 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
@@ -39,6 +42,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGTZS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -92,7 +101,7 @@
       1763588155,
       1159283697
     ],
-    "wof:lastmodified": 1662740356,
+    "wof:lastmodified": 1662741153,
     "wof:name": "AC762 (SFO-YUL)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",
