@@ -2,10 +2,12 @@
   "id": 1796249897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-11",
+    "date:cessation_upper": "2022-09-11",
     "date:inception_lower": "2022-09-11",
     "date:inception_upper": "2022-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-11",
+    "edtf:cessation": "2022-09-11T02:29:47-07:00",
+    "edtf:inception": "2022-09-11T15:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-09-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.1517615,
     "geom:longitude": -121.98042749999999,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530559,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N185UW",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "34168653",
+      "swim:gufi": "KO49831100"
+    },
     "wof:country": "US",
     "wof:created": 1662998548,
     "wof:geomhash": "f5805f1be1c56ce2a2965880e252c65f",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1796249897,
     "wof:involves": [
+      1159289411,
       102527513,
       102530559,
-      1159283849,
-      -1
+      1159283849
     ],
-    "wof:lastmodified": 1662998548,
+    "wof:lastmodified": 1663000274,
     "wof:name": "AA9779 (SMF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

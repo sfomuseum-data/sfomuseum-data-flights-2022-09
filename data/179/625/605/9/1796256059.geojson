@@ -2,10 +2,12 @@
   "id": 1796256059,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-12",
+    "date:cessation_upper": "2022-09-12",
     "date:inception_lower": "2022-09-11",
     "date:inception_upper": "2022-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-11",
+    "edtf:cessation": "2022-09-12T09:14:00Z",
+    "edtf:inception": "2022-09-11T14:15:12-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "UAL",
     "icao:base_airline": "VOZ",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20220911-D-VOZ-8180",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N19117",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34087990",
+      "swim:gufi": "KO02314200"
+    },
     "wof:country": "US",
     "wof:created": 1663000134,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796256059,
     "wof:involves": [
-      102534365,
-      102527513,
       1159285413,
       1763588315,
-      1159285485
+      1159285485,
+      1159289939,
+      102534365,
+      102527513
     ],
-    "wof:lastmodified": 1663000134,
+    "wof:lastmodified": 1663000289,
     "wof:name": "UA522 (SFO-JFK)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

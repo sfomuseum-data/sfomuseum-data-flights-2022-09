@@ -2,10 +2,12 @@
   "id": 1796249787,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-11",
-    "date:inception_upper": "2022-09-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-11",
+    "date:cessation_lower": "2022-09-11",
+    "date:cessation_upper": "2022-09-11",
+    "date:inception_lower": "2022-09-12",
+    "date:inception_upper": "2022-09-12",
+    "edtf:cessation": "2022-09-11T14:50:49-07:00",
+    "edtf:inception": "2022-09-12T03:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220911-A-BAW-6919",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N149AN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KA06991200"
+    },
     "wof:country": "US",
     "wof:created": 1662998513,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796249787,
     "wof:involves": [
+      1763588211,
+      1159284021,
+      1159289411,
       102527513,
       102526751,
-      1159283849,
-      1763588211,
-      1159284021
+      1159283849
     ],
-    "wof:lastmodified": 1662998513,
+    "wof:lastmodified": 1663000274,
     "wof:name": "AA686 (PHX-SFO)",
     "wof:parent_id": 1763588211,
     "wof:placetype": "custom",
