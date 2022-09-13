@@ -2,10 +2,12 @@
   "id": 1796269015,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-12",
-    "date:inception_upper": "2022-09-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-12",
+    "date:cessation_lower": "2022-09-12",
+    "date:cessation_upper": "2022-09-12",
+    "date:inception_lower": "2022-09-13",
+    "date:inception_upper": "2022-09-13",
+    "edtf:cessation": "2022-09-12T15:08:09Z",
+    "edtf:inception": "2022-09-12T23:34:07-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "VIR",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20220912-D-VIR-5361",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N3765",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34189375",
+      "swim:gufi": "KO45654200"
+    },
     "wof:country": "US",
     "wof:created": 1663086189,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796269015,
     "wof:involves": [
+      1763588237,
+      1159285483,
+      1159289871,
       102533269,
       102527513,
-      1159284261,
-      1763588237,
-      1159285483
+      1159284261
     ],
-    "wof:lastmodified": 1663086189,
+    "wof:lastmodified": 1663086713,
     "wof:name": "DL2676 (SFO-SEA)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",
