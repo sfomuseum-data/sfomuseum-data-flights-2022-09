@@ -2,10 +2,12 @@
   "id": 1796275031,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-13",
+    "date:cessation_upper": "2022-09-13",
     "date:inception_lower": "2022-09-13",
     "date:inception_upper": "2022-09-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-13",
+    "edtf:cessation": "2022-09-13T07:13:12-07:00",
+    "edtf:inception": "2022-09-13T19:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220913-A-ACA-3344",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N37534",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34307056",
+      "swim:gufi": "KS56126300"
+    },
     "wof:country": "US",
     "wof:created": 1663172065,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
@@ -90,9 +103,10 @@
       102532251,
       1159285413,
       1763588357,
-      1159283597
+      1159283597,
+      1528104577
     ],
-    "wof:lastmodified": 1663172065,
+    "wof:lastmodified": 1663173079,
     "wof:name": "UA437 (PDX-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1796275749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-13",
+    "date:cessation_upper": "2022-09-13",
     "date:inception_lower": "2022-09-13",
     "date:inception_upper": "2022-09-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-13",
+    "edtf:cessation": "2022-09-13T22:03:00Z",
+    "edtf:inception": "2022-09-13T20:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:date": "2022-09-13",
@@ -21,9 +23,11 @@
     "geom:latitude": 36.8494965,
     "geom:longitude": -118.7636915,
     "iata:airline": "AA",
+    "icao:aircraft": "A321",
     "icao:airline": "AAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289411,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N187US",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "34377691",
+      "swim:gufi": "KO66627300"
+    },
     "wof:country": "US",
     "wof:created": 1663172248,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -45,12 +58,12 @@
     ],
     "wof:id": 1796275749,
     "wof:involves": [
+      1159289411,
       102527209,
       102527513,
-      1159283849,
-      -1
+      1159283849
     ],
-    "wof:lastmodified": 1663172248,
+    "wof:lastmodified": 1663173065,
     "wof:name": "AA9789 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
