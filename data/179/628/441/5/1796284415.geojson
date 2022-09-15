@@ -2,10 +2,12 @@
   "id": 1796284415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-14",
+    "date:cessation_upper": "2022-09-14",
     "date:inception_lower": "2022-09-14",
     "date:inception_upper": "2022-09-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-14",
+    "edtf:cessation": "2022-09-14T16:11:00Z",
+    "edtf:inception": "2022-09-14T00:34:54-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20220914-D-AAL-7475",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N302AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34368467"
+    },
     "wof:country": "US",
     "wof:created": 1663258860,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1796284415,
     "wof:involves": [
-      102533269,
       102527513,
       1159283813,
       1763588149,
-      1159283849
+      1159283849,
+      1377564285,
+      102533269
     ],
-    "wof:lastmodified": 1663258860,
+    "wof:lastmodified": 1663259434,
     "wof:name": "AS729 (SFO-SEA)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

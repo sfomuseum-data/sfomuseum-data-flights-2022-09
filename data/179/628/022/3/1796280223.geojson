@@ -2,10 +2,12 @@
   "id": 1796280223,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-14",
+    "date:cessation_upper": "2022-09-14",
     "date:inception_lower": "2022-09-14",
     "date:inception_upper": "2022-09-14",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-14",
+    "edtf:cessation": "2022-09-14T07:37:00Z",
+    "edtf:inception": "2022-09-14T06:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "OZ",
     "flysfo:date": "2022-09-14",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "34343065"
+    },
     "wof:country": "US",
     "wof:created": 1663257754,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -50,7 +55,7 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1663257754,
+    "wof:lastmodified": 1663259440,
     "wof:name": "OZ286 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
