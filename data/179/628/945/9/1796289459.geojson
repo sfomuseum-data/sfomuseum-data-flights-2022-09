@@ -2,10 +2,12 @@
   "id": 1796289459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-15",
+    "date:cessation_upper": "2022-09-15",
     "date:inception_lower": "2022-09-15",
     "date:inception_upper": "2022-09-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-15",
+    "edtf:cessation": "2022-09-15T08:41:00Z",
+    "edtf:inception": "2022-09-15T06:19:36Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2022-09-15",
@@ -35,6 +37,9 @@
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "34536781"
+    },
     "wof:country": "US",
     "wof:created": 1663344753,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -50,7 +55,7 @@
       1159285227,
       -1
     ],
-    "wof:lastmodified": 1663344753,
+    "wof:lastmodified": 1663345946,
     "wof:name": "SY8723 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

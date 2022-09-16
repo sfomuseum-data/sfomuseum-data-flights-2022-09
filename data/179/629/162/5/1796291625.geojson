@@ -2,10 +2,12 @@
   "id": 1796291625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-16",
+    "date:cessation_upper": "2022-09-16",
     "date:inception_lower": "2022-09-15",
     "date:inception_upper": "2022-09-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-15",
+    "edtf:cessation": "2022-09-16T00:52:00Z",
+    "edtf:inception": "2022-09-15T23:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34516993"
+    },
     "wof:country": "US",
     "wof:created": 1663345300,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -92,7 +97,7 @@
       1763588127,
       1159283849
     ],
-    "wof:lastmodified": 1663345300,
+    "wof:lastmodified": 1663345941,
     "wof:name": "AS139 (SFO-SEA)",
     "wof:parent_id": 1763588127,
     "wof:placetype": "custom",
