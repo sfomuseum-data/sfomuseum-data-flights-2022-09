@@ -2,10 +2,12 @@
   "id": 1796300419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-16",
+    "date:cessation_upper": "2022-09-16",
     "date:inception_lower": "2022-09-16",
     "date:inception_upper": "2022-09-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-16",
+    "edtf:cessation": "2022-09-16T20:45:00Z",
+    "edtf:inception": "2022-09-16T15:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:base_flight_id": "20220916-D-CMP-2881",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N38446",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34573740",
+      "swim:gufi": "KO47237600"
+    },
     "wof:country": "US",
     "wof:created": 1663432116,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -86,13 +95,14 @@
     ],
     "wof:id": 1796300419,
     "wof:involves": [
+      1763588327,
+      1159284211,
+      1377564285,
       102533657,
       102527513,
-      1159285413,
-      1763588327,
-      1159284211
+      1159285413
     ],
-    "wof:lastmodified": 1663432116,
+    "wof:lastmodified": 1663432278,
     "wof:name": "UA2332 (SFO-MCO)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

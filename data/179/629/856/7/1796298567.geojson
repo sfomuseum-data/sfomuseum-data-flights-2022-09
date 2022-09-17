@@ -2,10 +2,12 @@
   "id": 1796298567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-16",
+    "date:cessation_upper": "2022-09-16",
     "date:inception_lower": "2022-09-16",
     "date:inception_upper": "2022-09-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-16",
+    "edtf:cessation": "2022-09-16T18:32:23Z",
+    "edtf:inception": "2022-09-16T17:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617532,
     "lbl:longitude": -122.382384,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20220916-D-AAL-7560",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N636VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34583893"
+    },
     "wof:country": "US",
     "wof:created": 1663431645,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1796298567,
     "wof:involves": [
+      1763588157,
+      1159283849,
+      1159292085,
       102527209,
       102527513,
-      1159283813,
-      1763588157,
-      1159283849
+      1159283813
     ],
-    "wof:lastmodified": 1663431645,
+    "wof:lastmodified": 1663432285,
     "wof:name": "AS123 (SFO-LAS)",
     "wof:parent_id": 1763588157,
     "wof:placetype": "custom",
