@@ -2,10 +2,12 @@
   "id": 1796305591,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-18",
+    "date:cessation_upper": "2022-09-18",
     "date:inception_lower": "2022-09-17",
     "date:inception_upper": "2022-09-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-17",
+    "edtf:cessation": "2022-09-18T09:37:00Z",
+    "edtf:inception": "2022-09-17T15:46:32-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614944,
     "lbl:longitude": -122.383123,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20220917-D-AMX-3534",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N872DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KO16862100"
+    },
     "wof:country": "US",
     "wof:created": 1663518063,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1796305591,
     "wof:involves": [
-      102526927,
       102527513,
       1159284261,
       1763588237,
-      1159283539
+      1159283539,
+      1377564285,
+      102526927
     ],
-    "wof:lastmodified": 1663518063,
+    "wof:lastmodified": 1663518567,
     "wof:name": "DL1500 (SFO-ATL)",
     "wof:parent_id": 1763588237,
     "wof:placetype": "custom",
