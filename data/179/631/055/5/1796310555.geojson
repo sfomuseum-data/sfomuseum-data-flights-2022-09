@@ -2,10 +2,12 @@
   "id": 1796310555,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-18",
-    "date:inception_upper": "2022-09-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-18",
+    "date:cessation_lower": "2022-09-18",
+    "date:cessation_upper": "2022-09-18",
+    "date:inception_lower": "2022-09-19",
+    "date:inception_upper": "2022-09-19",
+    "edtf:cessation": "2022-09-18T12:32:33-07:00",
+    "edtf:inception": "2022-09-19T00:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618486,
     "lbl:longitude": -122.384457,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220918-A-ACA-5293",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N410UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:gufi": "KD77074100"
+    },
     "wof:country": "US",
     "wof:created": 1663604092,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
@@ -90,9 +102,10 @@
       102531189,
       1159285413,
       1763588339,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1663604092,
+    "wof:lastmodified": 1663605078,
     "wof:name": "UA708 (DEN-SFO)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",
