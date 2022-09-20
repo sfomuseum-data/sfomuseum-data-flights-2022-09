@@ -2,10 +2,12 @@
   "id": 1796317523,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-19",
+    "date:cessation_upper": "2022-09-19",
     "date:inception_lower": "2022-09-19",
     "date:inception_upper": "2022-09-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-19",
+    "edtf:cessation": "2022-09-19T07:30:00Z",
+    "edtf:inception": "2022-09-19T06:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "WN",
     "flysfo:date": "2022-09-19",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34814364"
+    },
     "wof:country": "US",
     "wof:created": 1663690371,
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
@@ -86,7 +91,7 @@
       1159285591,
       1763588225
     ],
-    "wof:lastmodified": 1663690371,
+    "wof:lastmodified": 1663691506,
     "wof:name": "WN664 (LAS-SFO)",
     "wof:parent_id": 1763588225,
     "wof:placetype": "custom",
