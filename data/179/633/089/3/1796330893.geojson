@@ -2,10 +2,12 @@
   "id": 1796330893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-21",
+    "date:cessation_upper": "2022-09-21",
     "date:inception_lower": "2022-09-21",
     "date:inception_upper": "2022-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-21",
+    "edtf:cessation": "2022-09-21T22:44:50Z",
+    "edtf:inception": "2022-09-21T10:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "IB",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "34994474"
+    },
     "wof:country": "US",
     "wof:created": 1663862978,
     "wof:geomhash": "e381de006a7d8b2da90b8f820c28ec9b",
@@ -92,7 +97,7 @@
       1763588431,
       1159283849
     ],
-    "wof:lastmodified": 1663862978,
+    "wof:lastmodified": 1663864231,
     "wof:name": "IB6193 (MAD-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

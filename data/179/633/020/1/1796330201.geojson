@@ -2,10 +2,12 @@
   "id": 1796330201,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-21",
+    "date:cessation_upper": "2022-09-21",
     "date:inception_lower": "2022-09-21",
     "date:inception_upper": "2022-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-21",
+    "edtf:cessation": "2022-09-21T14:17:00Z",
+    "edtf:inception": "2022-09-21T13:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "ASA",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220921-A-SIA-1339",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-approach"
+    ],
+    "swim:tail_number": "N852VA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35005654"
+    },
     "wof:country": "US",
     "wof:created": 1663862800,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796330201,
     "wof:involves": [
+      1159292085,
       102527513,
       102533795,
       1159283813,
       1763588245,
       1159286259
     ],
-    "wof:lastmodified": 1663862800,
+    "wof:lastmodified": 1663864228,
     "wof:name": "AS997 (LAX-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

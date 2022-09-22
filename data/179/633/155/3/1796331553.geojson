@@ -2,10 +2,12 @@
   "id": 1796331553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-21",
+    "date:cessation_upper": "2022-09-21",
     "date:inception_lower": "2022-09-21",
     "date:inception_upper": "2022-09-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-21",
+    "edtf:cessation": "2022-09-21T22:40:00Z",
+    "edtf:inception": "2022-09-21T09:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "TP",
     "flysfo:date": "2022-09-21",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35088921"
+    },
     "wof:country": "US",
     "wof:created": 1663863150,
     "wof:geomhash": "d927879de9f350bec45f63af3f2c3973",
@@ -86,7 +91,7 @@
       1159285271,
       1763588455
     ],
-    "wof:lastmodified": 1663863150,
+    "wof:lastmodified": 1663864243,
     "wof:name": "TP2483 (LIS-SFO)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",
