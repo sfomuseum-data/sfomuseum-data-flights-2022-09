@@ -2,10 +2,12 @@
   "id": 1796353771,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2022-09-24",
-    "date:inception_upper": "2022-09-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-24",
+    "date:cessation_lower": "2022-09-25",
+    "date:cessation_upper": "2022-09-25",
+    "date:inception_lower": "2022-09-25",
+    "date:inception_upper": "2022-09-25",
+    "edtf:cessation": "2022-09-25T08:03:00Z",
+    "edtf:inception": "2022-09-24T17:13:45-07:00",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:date": "2022-09-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AC",
+    "icao:aircraft": "A319",
     "icao:airline": "ACA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,15 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "CGBIA",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:gufi": "KO12499100"
+    },
     "wof:country": "US",
     "wof:created": 1664122672,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -48,9 +60,9 @@
       102533795,
       102527513,
       1159283597,
-      -1
+      1159289407
     ],
-    "wof:lastmodified": 1664122672,
+    "wof:lastmodified": 1664123414,
     "wof:name": "AC7028 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
