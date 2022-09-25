@@ -1,0 +1,75 @@
+{
+  "id": 1796354209,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-09-24",
+    "date:inception_upper": "2022-09-24",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-09-24",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "NZ",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "4354",
+    "flysfo:date": "2022-09-24",
+    "flysfo:estimated_timestamp": 1664071740,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "NZ9618",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-SBA",
+    "flysfo:scheduled_timestamp": 1664071260,
+    "flysfo:timestamp": 1664071740,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,34.427974,-119.837133,37.617990",
+    "geom:latitude": 36.022982,
+    "geom:longitude": -121.104038,
+    "iata:airline": "NZ",
+    "iata:base_airline": "",
+    "icao:airline": "ANZ",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283697,
+    "sfomuseum:arrival_id": 102527337,
+    "sfomuseum:base_flight_id": "20220924-D-ACA-4354",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220924-D-ANZ-9618",
+    "sfomuseum:flight_number": [
+      "ANZ9618",
+      "NZ9618"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1664122780,
+    "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796354209
+      }
+    ],
+    "wof:id": 1796354209,
+    "wof:involves": [
+      102527337,
+      102527513,
+      1159283697,
+      -1,
+      1159283597
+    ],
+    "wof:lastmodified": 1664122780,
+    "wof:name": "NZ9618 (SFO-SBA)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    34.427974,
+    -119.837133,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-119.837133,34.427974]],"type":"MultiPoint"}
+}

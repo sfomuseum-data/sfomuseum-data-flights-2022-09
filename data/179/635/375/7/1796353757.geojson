@@ -1,0 +1,75 @@
+{
+  "id": 1796353757,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2022-09-24",
+    "date:inception_upper": "2022-09-24",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-09-24",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AC",
+    "flysfo:base_airline": "",
+    "flysfo:base_flight_number": "5904",
+    "flysfo:date": "2022-09-24",
+    "flysfo:estimated_timestamp": -1,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AC5904",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ORD",
+    "flysfo:scheduled_timestamp": 1664033100,
+    "flysfo:timestamp": 1664033100,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-87.894364,41.983038",
+    "geom:latitude": 39.800514,
+    "geom:longitude": -105.1326535,
+    "iata:airline": "AC",
+    "iata:base_airline": "",
+    "icao:airline": "ACA",
+    "icao:base_airline": "ACA",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283597,
+    "sfomuseum:arrival_id": 102533631,
+    "sfomuseum:base_flight_id": "20220924-D-ACA-5904",
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20220924-D-ACA-5904",
+    "sfomuseum:flight_number": [
+      "ACA5904",
+      "AC5904"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1664122668,
+    "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1796353757
+      }
+    ],
+    "wof:id": 1796353757,
+    "wof:involves": [
+      102533631,
+      102527513,
+      1159283597,
+      -1,
+      1159283597
+    ],
+    "wof:lastmodified": 1664122668,
+    "wof:name": "AC5904 (SFO-ORD)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2022-09",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -87.894364,
+    41.983038
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}
+}
