@@ -2,10 +2,12 @@
   "id": 1796359423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-25",
+    "date:cessation_upper": "2022-09-25",
     "date:inception_lower": "2022-09-25",
     "date:inception_upper": "2022-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-25",
+    "edtf:cessation": "2022-09-25T06:49:00Z",
+    "edtf:inception": "2022-09-25T05:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.620533,
     "lbl:longitude": -122.389374,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220925-A-ANA-7510",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35372259",
+      "swim:gufi": "KL11408100"
+    },
     "wof:country": "US",
     "wof:created": 1664208885,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -90,9 +98,10 @@
       102533795,
       1159285413,
       1763588319,
-      1159283875
+      1159283875,
+      1159292085
     ],
-    "wof:lastmodified": 1664208885,
+    "wof:lastmodified": 1664209958,
     "wof:name": "UA254 (LAX-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

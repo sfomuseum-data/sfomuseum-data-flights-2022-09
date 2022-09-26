@@ -2,10 +2,12 @@
   "id": 1796359427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-25",
+    "date:cessation_upper": "2022-09-25",
     "date:inception_lower": "2022-09-25",
     "date:inception_upper": "2022-09-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-25",
+    "edtf:cessation": "2022-09-25T08:02:00Z",
+    "edtf:inception": "2022-09-25T06:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2022-09-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 34.868676,
     "geom:longitude": -116.6588805,
     "iata:airline": "UA",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "lbl:latitude": 37.619124,
     "lbl:longitude": -122.383949,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527853,
@@ -48,6 +52,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35372933",
+      "swim:gufi": "KA10151100"
+    },
     "wof:country": "US",
     "wof:created": 1664208886,
     "wof:geomhash": "82918c5e99f5bb53bff81082f1f1666f",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1796359427,
     "wof:involves": [
+      1377564285,
       102527513,
       102527853,
       1159285413,
       1763588351
     ],
-    "wof:lastmodified": 1664208886,
+    "wof:lastmodified": 1664209958,
     "wof:name": "UA2556 (TUS-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",
