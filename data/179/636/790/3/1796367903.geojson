@@ -2,10 +2,12 @@
   "id": 1796367903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-26",
+    "date:cessation_upper": "2022-09-26",
     "date:inception_lower": "2022-09-26",
     "date:inception_upper": "2022-09-26",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-26",
+    "edtf:cessation": "2022-09-26T10:25:57Z",
+    "edtf:inception": "2022-09-26T05:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20220926-D-QTR-2152",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N978AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35456749"
+    },
     "wof:country": "US",
     "wof:created": 1664295670,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1796367903,
     "wof:involves": [
+      1528104577,
       102534365,
       102527513,
       1159283813,
       1763588139,
       1159286153
     ],
-    "wof:lastmodified": 1664295670,
+    "wof:lastmodified": 1664296337,
     "wof:name": "AS188 (SFO-JFK)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
