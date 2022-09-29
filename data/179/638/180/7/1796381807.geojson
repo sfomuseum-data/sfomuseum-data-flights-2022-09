@@ -2,10 +2,12 @@
   "id": 1796381807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-28",
+    "date:cessation_upper": "2022-09-28",
     "date:inception_lower": "2022-09-28",
     "date:inception_upper": "2022-09-28",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-28",
+    "edtf:cessation": "2022-09-28T15:11:00Z",
+    "edtf:inception": "2022-09-28T13:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20220928-D-AFR-2733",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-takeoff"
+    ],
+    "swim:tail_number": "N37700",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35649096",
+      "swim:gufi": "KO45643400"
+    },
     "wof:country": "US",
     "wof:created": 1664468614,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -90,9 +104,10 @@
       102527513,
       1159284261,
       1763588249,
-      1159283627
+      1159283627,
+      1159289871
     ],
-    "wof:lastmodified": 1664468614,
+    "wof:lastmodified": 1664469188,
     "wof:name": "DL2676 (SFO-SEA)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",
