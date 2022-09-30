@@ -2,10 +2,12 @@
   "id": 1796386701,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-30",
+    "date:cessation_upper": "2022-09-30",
     "date:inception_lower": "2022-09-29",
     "date:inception_upper": "2022-09-29",
-    "edtf:cessation": "",
-    "edtf:inception": "2022-09-29",
+    "edtf:cessation": "2022-09-29T23:16:01-07:00",
+    "edtf:inception": "2022-09-29T08:19:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20220929-A-DLH-7859",
@@ -39,6 +43,12 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path",
+      "swim-approach"
+    ],
+    "swim:tail_number": "N76517",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +63,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "35724432",
+      "swim:gufi": "KO42047500"
+    },
     "wof:country": "US",
     "wof:created": 1664554493,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
@@ -86,13 +100,14 @@
     ],
     "wof:id": 1796386701,
     "wof:involves": [
+      1159289871,
       102527513,
       102528943,
       1159285413,
       1763588285,
       1159286015
     ],
-    "wof:lastmodified": 1664554493,
+    "wof:lastmodified": 1664555680,
     "wof:name": "UA1746 (LIH-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",
