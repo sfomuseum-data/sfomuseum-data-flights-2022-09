@@ -48,6 +48,7 @@
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
     "wof:hierarchy": [
       {
+        "custom_id": 1796223155,
         "flight_id": 1796223155
       }
     ],
@@ -58,11 +59,13 @@
       102527513,
       102527529
     ],
-    "wof:lastmodified": 1662568284,
+    "wof:lastmodified": 1717041281,
     "wof:name": "WN8517 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

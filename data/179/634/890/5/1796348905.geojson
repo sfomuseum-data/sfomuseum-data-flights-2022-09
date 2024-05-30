@@ -53,6 +53,7 @@
     "wof:geomhash": "15b112f2955ad354f72c3865722bb247",
     "wof:hierarchy": [
       {
+        "custom_id": 1796348905,
         "flight_id": 1796348905
       }
     ],
@@ -63,11 +64,13 @@
       1159289871,
       102528591
     ],
-    "wof:lastmodified": 1664037155,
+    "wof:lastmodified": 1717041291,
     "wof:name": "SY3010 (SFO-AFW)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

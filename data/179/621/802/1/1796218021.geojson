@@ -45,6 +45,7 @@
     "wof:geomhash": "b700d5ae3794da4176af6b85f6cd6669",
     "wof:hierarchy": [
       {
+        "custom_id": 1796218021,
         "flight_id": 1796218021
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1662395412,
+    "wof:lastmodified": 1717041285,
     "wof:name": "VA8493 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

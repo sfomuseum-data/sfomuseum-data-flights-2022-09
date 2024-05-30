@@ -58,6 +58,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1796254113,
         "flight_id": 1796254113
       }
     ],
@@ -69,11 +70,13 @@
       1159283813,
       1159283849
     ],
-    "wof:lastmodified": 1663000283,
+    "wof:lastmodified": 1717041282,
     "wof:name": "AS123 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

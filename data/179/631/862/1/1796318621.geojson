@@ -40,6 +40,7 @@
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
     "wof:hierarchy": [
       {
+        "custom_id": 1796318621,
         "flight_id": 1796318621
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1663690648,
+    "wof:lastmodified": 1717041289,
     "wof:name": "AA783 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

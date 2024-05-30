@@ -53,6 +53,7 @@
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
     "wof:hierarchy": [
       {
+        "custom_id": 1796216099,
         "flight_id": 1796216099
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1662395445,
+    "wof:lastmodified": 1717041283,
     "wof:name": "DL8890 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

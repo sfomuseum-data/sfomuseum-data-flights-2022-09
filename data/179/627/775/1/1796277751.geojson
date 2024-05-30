@@ -40,6 +40,7 @@
     "wof:geomhash": "f18802b33d454e15918a544ef71492db",
     "wof:hierarchy": [
       {
+        "custom_id": 1796277751,
         "flight_id": 1796277751
       }
     ],
@@ -50,11 +51,13 @@
       1159286153,
       -1
     ],
-    "wof:lastmodified": 1663172758,
+    "wof:lastmodified": 1717041284,
     "wof:name": "QR47 (SFO-DOH)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -54,6 +54,7 @@
     "wof:geomhash": "02eb21027b428b31b3a49fca7e3fb60f",
     "wof:hierarchy": [
       {
+        "custom_id": 1796284743,
         "flight_id": 1796284743
       }
     ],
@@ -64,11 +65,13 @@
       102527513,
       1159284261
     ],
-    "wof:lastmodified": 1663259435,
+    "wof:lastmodified": 1717041283,
     "wof:name": "DL8841 (SFO-BFI)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

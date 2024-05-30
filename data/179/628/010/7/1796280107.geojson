@@ -40,6 +40,7 @@
     "wof:geomhash": "dcc7d5812c5708e8b42757f5054e75d6",
     "wof:hierarchy": [
       {
+        "custom_id": 1796280107,
         "flight_id": 1796280107
       }
     ],
@@ -50,11 +51,13 @@
       1159283849,
       -1
     ],
-    "wof:lastmodified": 1663257716,
+    "wof:lastmodified": 1717041292,
     "wof:name": "AA2898 (ACV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

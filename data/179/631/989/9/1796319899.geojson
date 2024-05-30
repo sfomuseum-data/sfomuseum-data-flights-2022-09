@@ -45,6 +45,7 @@
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
     "wof:hierarchy": [
       {
+        "custom_id": 1796319899,
         "flight_id": 1796319899
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284261
     ],
-    "wof:lastmodified": 1663690968,
+    "wof:lastmodified": 1717041290,
     "wof:name": "DL6973 (SFO-YYC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

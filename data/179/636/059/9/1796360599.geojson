@@ -51,6 +51,7 @@
     "wof:geomhash": "5685f56014cf853d095c4b0f2d5ea6d9",
     "wof:hierarchy": [
       {
+        "custom_id": 1796360599,
         "flight_id": 1796360599
       }
     ],
@@ -61,11 +62,13 @@
       102527513,
       1159283649
     ],
-    "wof:lastmodified": 1664209943,
+    "wof:lastmodified": 1717041285,
     "wof:name": "AI184 (SFO-DEL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

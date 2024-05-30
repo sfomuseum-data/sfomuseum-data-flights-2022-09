@@ -45,6 +45,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1796319229,
         "flight_id": 1796319229
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283697
     ],
-    "wof:lastmodified": 1663690799,
+    "wof:lastmodified": 1717041290,
     "wof:name": "NZ9102 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

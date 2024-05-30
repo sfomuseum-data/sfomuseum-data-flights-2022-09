@@ -54,6 +54,7 @@
     "wof:geomhash": "1e284fd777a7bf1f8b464fea635cfcb1",
     "wof:hierarchy": [
       {
+        "custom_id": 1796330567,
         "flight_id": 1796330567
       }
     ],
@@ -64,11 +65,13 @@
       102530849,
       1159284261
     ],
-    "wof:lastmodified": 1663864230,
+    "wof:lastmodified": 1717041285,
     "wof:name": "DL8882 (MKE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

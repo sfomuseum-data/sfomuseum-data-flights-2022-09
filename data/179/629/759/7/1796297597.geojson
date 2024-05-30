@@ -59,6 +59,7 @@
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
     "wof:hierarchy": [
       {
+        "custom_id": 1796297597,
         "flight_id": 1796297597
       }
     ],
@@ -70,11 +71,13 @@
       1159283539,
       1159289871
     ],
-    "wof:lastmodified": 1663432284,
+    "wof:lastmodified": 1717041284,
     "wof:name": "WS1520 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

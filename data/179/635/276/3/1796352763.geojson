@@ -53,6 +53,7 @@
     "wof:geomhash": "099d85224c4d6fa8685f2b490939bec5",
     "wof:hierarchy": [
       {
+        "custom_id": 1796352763,
         "flight_id": 1796352763
       }
     ],
@@ -63,11 +64,13 @@
       102530801,
       1159285413
     ],
-    "wof:lastmodified": 1664123400,
+    "wof:lastmodified": 1717041287,
     "wof:name": "UA2738 (VCV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -52,6 +52,7 @@
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
     "wof:hierarchy": [
       {
+        "custom_id": 1780477531,
         "flight_id": 1780477531
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1662136374,
+    "wof:lastmodified": 1717041282,
     "wof:name": "UA8216 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

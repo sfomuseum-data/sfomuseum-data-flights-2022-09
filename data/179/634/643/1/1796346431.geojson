@@ -45,6 +45,7 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
+        "custom_id": 1796346431,
         "flight_id": 1796346431
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283597
     ],
-    "wof:lastmodified": 1664036208,
+    "wof:lastmodified": 1717041289,
     "wof:name": "VA8089 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

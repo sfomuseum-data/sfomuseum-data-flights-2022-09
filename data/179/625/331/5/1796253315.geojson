@@ -45,6 +45,7 @@
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "custom_id": 1796253315,
         "flight_id": 1796253315
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1662999442,
+    "wof:lastmodified": 1717041282,
     "wof:name": "AA7560 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []

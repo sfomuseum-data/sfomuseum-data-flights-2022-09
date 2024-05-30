@@ -45,6 +45,7 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "custom_id": 1796380527,
         "flight_id": 1796380527
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284563
     ],
-    "wof:lastmodified": 1664468270,
+    "wof:lastmodified": 1717041287,
     "wof:name": "AA2421 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2022-09",
     "wof:superseded_by": [],
     "wof:supersedes": []
